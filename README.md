@@ -1,2 +1,2 @@
 # LSTM-EEG
-https://youtu.be/CRoyZVbKb34
+Enlace vídeo: https://youtu.be/CRoyZVbKb34
